@@ -26,14 +26,15 @@ English version: [README.en.md](README.en.md)
 - 需要生成项目文档时
 - 了解项目架构和技术栈时
 
-**文档位置**：[android-project-analyzer/SKILL.md](android-project-analyzer/SKILL.md)
+**文档位置**：[skills/android-project-analyzer/SKILL.md](skills/android-project-analyzer/SKILL.md)
 
 ## 项目结构
 
 ```
 agent-skills/
-├── android-project-analyzer/
-│   └── SKILL.md
+├── skills/
+│   └── android-project-analyzer/
+│       └── SKILL.md
 ├── README.md
 └── README.en.md
 ```

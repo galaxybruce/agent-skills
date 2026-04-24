@@ -26,14 +26,15 @@ This repository is a collection of skills for AI assistants and agent systems. E
 - When you need to generate/refresh project documentation
 - When you need a quick understanding of architecture and tech stack
 
-**Documentation**: [android-project-analyzer/SKILL.md](android-project-analyzer/SKILL.md)
+**Documentation**: [skills/android-project-analyzer/SKILL.md](skills/android-project-analyzer/SKILL.md)
 
 ## Repository Structure
 
 ```
 agent-skills/
-├── android-project-analyzer/
-│   └── SKILL.md
+├── skills/
+│   └── android-project-analyzer/
+│       └── SKILL.md
 ├── README.md
 └── README.en.md
 ```
